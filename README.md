@@ -1,4 +1,4 @@
-# Hi there, my name is Roman, and i'm developer 👋
+# Niekipielov Roman
 
 Apple platforms developer with 12 years of experience. Open to communication and criticism. It is easy to
 get along with people help other colleagues build relationships in the team and have the right attitude to work.
