@@ -1,9 +1,7 @@
-# Niekipielov Roman
+### Niekipielov Roman
 
 Apple platforms developer with 12 years of experience. Open to communication and criticism. It is easy to
 get along with people help other colleagues build relationships in the team and have the right attitude to work.
-
-### 🛠️ Tech Stack
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Vapor](https://img.shields.io/badge/-Vapor-0D1117?style=flat-square&logo=vapor&logoColor=white)
