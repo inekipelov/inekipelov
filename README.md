@@ -14,5 +14,6 @@ Apple platforms developer with 10+ years of experience. Software architect and m
 
 
 💼 LinkedIn: [Niekipielov Roman](https://www.linkedin.com/in/inekipelov/)
+📄 Resume: [Hire me](https://nekipelov.notion.site/Nekipelov-Roman-22ef4e8a010480eca549f74f9d51181b?source=copy_link)
 📱 Telegram: [@inekipelov](https://t.me/inekipelov)
 
