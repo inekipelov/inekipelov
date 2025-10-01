@@ -1,6 +1,6 @@
 ### 🌐 Hello, world!
 
-Apple platforms developer with 10+ years of experience. Software architect and mentor with a passion for building scalable solutions and growing development teams.
+Apple platforms developer since 2012. Software architect and mentor with a passion for building scalable solutions and growing development teams.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective--C](https://img.shields.io/badge/-Objective--C-1575F9?style=flat-square&logo=apple&logoColor=white)
