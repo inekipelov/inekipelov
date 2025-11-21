@@ -14,6 +14,6 @@ Apple platforms developer since 2012. Software architect and mentor with a passi
 
 
 💼 LinkedIn: [Niekipielov Roman](https://www.linkedin.com/in/inekipelov/)
-📄 Resume: [Hire me](https://nekipelov.notion.site/Nekipelov-Roman-22ef4e8a010480eca549f74f9d51181b?source=copy_link)
+📄 Resume: [Hire me](https://github.com/inekipelov/pdf-resume-ios-dev/blob/main/Resume_iOS_Developer_Niekipielov_2025.pdf)
 📱 Telegram: [@inekipelov](https://t.me/inekipelov)
 
