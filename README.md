@@ -16,4 +16,4 @@ Software Engineer since 2012. Software architect and mentor with a passion for b
 💼 LinkedIn: [Niekipielov Roman](https://www.linkedin.com/in/inekipelov/)
 📱 Telegram: [@inekipelov](https://t.me/inekipelov)
 
-📄 Resume: [PDF File](https://github.com/inekipelov/pdf-resume-ios-dev/blob/main/Resume_iOS_Developer_Niekipielov_2025.pdf)
+📄 iOS Developer: [PDF File](https://github.com/inekipelov/pdf-resume-ios-dev/blob/main/Resume_iOS_Developer_Niekipielov_2025.pdf)
