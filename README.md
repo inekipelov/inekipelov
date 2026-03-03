@@ -1,6 +1,6 @@
 ### 🌐 Hello, world!
 
-Apple platforms developer since 2012. Software architect and mentor with a passion for building scalable solutions and growing development teams.
+Software Engineer since 2012. Software architect and mentor with a passion for building scalable solutions and growing development teams.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective--C](https://img.shields.io/badge/-Objective--C-1575F9?style=flat-square&logo=apple&logoColor=white)
@@ -14,6 +14,6 @@ Apple platforms developer since 2012. Software architect and mentor with a passi
 
 
 💼 LinkedIn: [Niekipielov Roman](https://www.linkedin.com/in/inekipelov/)
-📄 Resume: [PDF File](https://github.com/inekipelov/pdf-resume-ios-dev/blob/main/Resume_iOS_Developer_Niekipielov_2025.pdf)
 📱 Telegram: [@inekipelov](https://t.me/inekipelov)
 
+📄 Resume: [PDF File](https://github.com/inekipelov/pdf-resume-ios-dev/blob/main/Resume_iOS_Developer_Niekipielov_2025.pdf)
