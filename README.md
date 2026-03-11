@@ -16,4 +16,13 @@ Software Engineer since 2012. Software architect and mentor with a passion for b
 💼 LinkedIn: [Niekipielov Roman](https://www.linkedin.com/in/inekipelov/)
 📱 Telegram: [@inekipelov](https://t.me/inekipelov)
 
-📄 iOS Developer: [PDF File](https://github.com/inekipelov/pdf-resume-ios-dev/blob/main/Resume_iOS_Developer_Niekipielov_2025.pdf)
+[![Resume: iOS Developer][resume-ios-badge]][resume-ios-pdf]
+[![Resume: Software Engineer][resume-software-engineer-badge]][resume-software-engineer-pdf]
+[![Resume: Mobile Project Manager][resume-mobile-pm-badge]][resume-mobile-pm-pdf]
+
+[resume-ios-badge]: https://img.shields.io/badge/Resume-iOS%20Developer-000000?style=flat-square&logo=adobeacrobatreader&logoColor=white
+[resume-ios-pdf]: https://github.com/inekipelov/resume/releases/download/2026.03.10.19.24-d7b9771/2025-ios-developer.pdf
+[resume-software-engineer-badge]: https://img.shields.io/badge/Resume-Software%20Engineer-000000?style=flat-square&logo=adobeacrobatreader&logoColor=white
+[resume-software-engineer-pdf]: https://github.com/inekipelov/resume/releases/download/2026.03.10.19.24-d7b9771/2026-software-engineer.pdf
+[resume-mobile-pm-badge]: https://img.shields.io/badge/Resume-Mobile%20Project%20Manager-000000?style=flat-square&logo=adobeacrobatreader&logoColor=white
+[resume-mobile-pm-pdf]: https://github.com/inekipelov/resume/releases/download/2026.03.10.19.24-d7b9771/2026-mobile-project-manager.pdf
