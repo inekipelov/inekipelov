@@ -1,44 +1,38 @@
 # Repository Guidelines
 
-Keep this repo lightweight—`README.md` is the public profile, and this guide is
-the only other root file. Everything else should live in `docs/` with any
-supporting images under `assets/<topic>/`.
+This repository is a lightweight GitHub profile repo. Keep the root minimal:
+`README.md`, this `AGENTS.md`, and only visitor-facing Markdown belong here.
+Longer instructions and role playbooks live in `.agents/`.
 
-## Project Structure & Module Organization
-- Root: `README.md`, `AGENTS.md`, and other visitor-facing Markdown only.
-- Long-form notes: `docs/<topic>.md`; reuse relative links.
-- Media: compress images below ~500 KB and store in `assets/<topic>/`.
-- Badges: match the existing Shields.io style and brand colors.
+## Repo Rules
 
-## Build, Test, and Development Commands
-- `npx markdownlint README.md AGENTS.md` — catch formatting drift before
-  pushing.
-- `npx markdown-link-check README.md` — verify outbound links remain valid;
-  run for other files when you add many links.
-- `open README.md` — quick macOS preview to confirm emoji and badge rendering.
+- Edit profile content primarily in `README.md`.
+- Put long-form notes in `docs/<topic>.md` and images in `assets/<topic>/`.
+- Keep badges in Shields.io style and use stable links when possible.
+- Use GitHub-flavored Markdown, ATX headings, hyphen bullets, and wrap near 80
+  characters.
+- Prefer concise visitor-facing copy; remove stale drafts instead of parking
+  them in root.
 
-## Coding Style & Naming Conventions
-- GitHub-flavored Markdown with ATX headings and sentence-case titles.
-- Hyphen bullets; fenced code blocks for commands and snippets.
-- Wrap text near 80 characters to keep diffs readable.
-- Filenames: lowercase with hyphens (e.g., `profile-update.md`); avoid spaces.
-- Keep prose concise and visitor-focused; avoid unused sections.
+## Skill Routing
 
-## Testing Guidelines
-- Manually open README in GitHub preview to spot badge or layout issues.
-- For link-heavy edits, run `npx markdown-link-check path/to/file.md`.
-- Verify new assets render and stay within size guidance; rename descriptively.
+- Always reference skills as `$skill-name`.
+- Use the smallest sufficient set of skills for the task.
+- Use `$brainstorming` before creative changes or behavior changes.
+- Use `$writing-plans` after the design is approved for multi-step execution.
+- Use `$find-skills` when the user asks whether a skill exists for a task.
+- Use `$openai-docs` for OpenAI product or API questions.
+- Use `$agent-md-refactor` when restructuring `AGENTS.md` or similar files.
+- Use `$skill-creator` or `$writing-skills` when creating or updating skills.
+- Use `$skill-installer` only when the user wants to install more skills.
 
-## Commit & Pull Request Guidelines
-- Commits: imperative, capitalized subjects under 72 characters (e.g., `Add
-  resume link to README.md`); group related edits together.
-- PRs: state intent, list manual checks (lint, link validation, previews), and
-  link related issues or discussions.
-- Include screenshots when badge ordering or visuals change; flag follow-up
-  tasks to keep the profile curated.
+## Role Playbooks
 
-## Security & Housekeeping
-- Do not commit secrets, personal access tokens, or machine-specific settings.
-- Prefer relative links and avoid external assets that may break over time.
-- Keep the root clutter-free; unused drafts belong in `docs/` or should be
-  removed before merging.
+- [Skill Router](.agents/skill-router.md)
+- [Profile Editor](.agents/profile-editor.md)
+- [Agent Instructions Architect](.agents/agent-instructions-architect.md)
+- [Skill Maintainer](.agents/skill-maintainer.md)
+- [Apple Platform Engineer](.agents/apple-platform-engineer.md)
+- [Python Backend Engineer](.agents/python-backend-engineer.md)
+- [Content Writer](.agents/content-writer.md)
+- [GitHub Operator](.agents/github-operator.md)
