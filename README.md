@@ -1,7 +1,5 @@
 ### 🌐 Hello, world!
 
-Software Engineer since 2012. Software architect and mentor with a passion for building scalable solutions and growing development teams.
-
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective--C](https://img.shields.io/badge/-Objective--C-1575F9?style=flat-square&logo=apple&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -11,6 +9,8 @@ Software Engineer since 2012. Software architect and mentor with a passion for b
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
+
+Software Engineer since 2012. Software architect and mentor with a passion for building scalable solutions and growing development teams.
 
 
 [![LinkedIn][linkedin-badge]][linkedin-url]
