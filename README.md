@@ -13,10 +13,14 @@ Software Engineer since 2012. Software architect and mentor with a passion for b
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
 
 
-💼 LinkedIn: [Niekipielov Roman](https://www.linkedin.com/in/inekipelov/)
-📱 Telegram: [@inekipelov](https://t.me/inekipelov)
+[![LinkedIn][linkedin-badge]][linkedin-url]
+[![Telegram][telegram-badge]][telegram-url]
 
 [![Resume][resume-release-badge]][resume-release-page]
 
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-Niekipielov%20Roman-0A66C2?style=flat-square&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/inekipelov/
+[telegram-badge]: https://img.shields.io/badge/Telegram-%40inekipelov-26A5E4?style=flat-square&logo=telegram&logoColor=white
+[telegram-url]: https://t.me/inekipelov
 [resume-release-badge]: https://img.shields.io/badge/Resume-Document-F3F4F6?style=for-the-badge&logo=googledocs&logoColor=2563EB&labelColor=E5E7EB&color=F3F4F6
 [resume-release-page]: https://github.com/inekipelov/resume/releases/latest
