@@ -18,5 +18,5 @@ Software Engineer since 2012. Software architect and mentor with a passion for b
 
 [![Resume][resume-release-badge]][resume-release-page]
 
-[resume-release-badge]: https://img.shields.io/badge/Resume-000000?style=flat-square&logo=adobeacrobatreader&logoColor=white
+[resume-release-badge]: https://img.shields.io/badge/Resume-Document-F3F4F6?style=for-the-badge&logo=googledocs&logoColor=2563EB&labelColor=E5E7EB&color=F3F4F6
 [resume-release-page]: https://github.com/inekipelov/resume/releases/latest
